@@ -10,8 +10,13 @@ and Some Useful KPIs
 #Insights:
 
 *#Finance View*: Profit Loss Statement, Top/Bottom Products.
+
 *#sales View*: Customer Performance, Product Performance.
+
 *#Marketing View*: Customer Performance, Region/Market Performance.
+
 *#Supply Chain View*: Key Matrics for Customers and Products.
+
 *#Executive View*: Subzone Insights, Market Share Trends, Yearly revenue.
+
 
