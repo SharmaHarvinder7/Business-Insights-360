@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-#Objectives: To Resulve End to End Business Problems
+#Objectives: To Resolve End to End Business Problems
 
 #Steps: Read csv files, Data Cleaning, Data Modeling, Created New Columns in Power Query, Created new columns outside Power Query, Uses DAX optimization tool to make file size light
 
